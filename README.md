@@ -8,3 +8,6 @@ My data science and analytics project
 3. R programming
 4. Looker GA4 Dashboard
 5. Linear regression Model using caret
+
+## Contect Me 
+email Apichaya.saz@gmail.com
